@@ -1,0 +1,7 @@
+{
+  "name": "agGridDemo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
